@@ -34,7 +34,7 @@ To run the script:
 ## shorten_links.py
 This script shortens URLs and generates a CSV of the output.
 
-The script was written to work with Python 2.7, and requires the requess
+The script was written to work with Python 2.7, and requires the requests
 library. A requirements.txt file is included for use with pip.
 
 The script requires two arguments, your Bitly account access token
